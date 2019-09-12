@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CustomViewsKotlin</string>
+    <string name="profile_picture">profile picture</string>
+</resources>
